@@ -13,3 +13,7 @@
 
 ## Screenshots
 ![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+
+<h2>Para acessar o site clique:</h2>
+
+>https://alurabook-beta.vercel.app/
